@@ -15,4 +15,4 @@ Welcome to my academic website! I am finishing my PhD at the University of Arizo
 ## Contact
 Email: [carloskl@arizona.edu]
 [Link to ResearchGate/Twitter/LinkedIn]
-[Download my CV (PDF)](./CV_CKL_Abr26.pdf)
+[Download my CV (PDF)](./CV_CKL_Abr26)
